@@ -1,0 +1,1 @@
+export const auctionCode = process.env.NEXT_PUBLIC_AUCTION_ASSET_ID || "36e7df7ca8676e50135228a97cea2d8ae69b2299fdea2ababf16b4ba41756374696f6e205374616765"
